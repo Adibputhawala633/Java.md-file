@@ -1,5 +1,5 @@
 # Java.md-file
-give basic Java Notes that help to learn
+Give basic Java Notes that help to learn
 
 # Java Notes
 
